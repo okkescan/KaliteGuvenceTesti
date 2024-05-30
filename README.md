@@ -1,2 +1,3 @@
 # KaliteGuvenceTesti
-Yazilim Kalite Guvencesi ve Testi Dersi Proje Odevi
+Yazilim Kalite Guvencesi ve Testi Dersi Proje Odevi   </br>
+Yayımlanmış olan bir blog sitesine (Yük, Stres, İşlevsellik, Veri Tabanı, Birim ) testleri uygulanmıştır.
